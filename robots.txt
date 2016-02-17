@@ -203,3 +203,26 @@ Disallow: /
 # http://www.screamingfrog.co.uk/seo-spider/
 User-agent: Screaming Frog SEO Spider
 Disallow: /
+
+# http://thumbsniper.com
+User-agent: ThumbSniper
+Disallow: /
+
+# http://www.radian6.com/crawler
+User-agent: R6_CommentReader
+Disallow: /
+
+User-agent: ImplisenseBot
+Disallow: /
+
+# http://cliqz.com/company/cliqzbot
+User-agent: Cliqzbot
+Disallow: /
+
+# https://www.aihitdata.com/about
+User-agent: aiHitBot
+Disallow: /
+
+# http://www.trendiction.com/en/publisher/bot
+User-Agent: trendictionbot
+Disallow: /
