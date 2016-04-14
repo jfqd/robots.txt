@@ -226,3 +226,7 @@ Disallow: /
 # http://www.trendiction.com/en/publisher/bot
 User-Agent: trendictionbot
 Disallow: /
+
+# http://warebay.com/bot.html
+User-agent: WBSearchBot
+Disallow: /
