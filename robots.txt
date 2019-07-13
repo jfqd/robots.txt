@@ -284,10 +284,6 @@ Disallow: /
 User-agent: Gosign-Security-Crawler
 Disallow: /
 
-# https://velen.io
-User-agent: VelenPublicWebCrawler
-Disallow: /
-
 # http://www.siteliner.com/bot
 User-agent: Siteliner
 Disallow: /
