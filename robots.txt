@@ -288,4 +288,8 @@ Disallow: /
 User-agent: Siteliner
 Disallow: /
 
+# https://sabsim.com
+User-agent: SabsimBot
+Disallow: /
+
 # END
