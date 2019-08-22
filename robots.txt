@@ -292,4 +292,8 @@ Disallow: /
 User-agent: SabsimBot
 Disallow: /
 
+# http://ltx71.com/
+User-agent: ltx71
+Disallow: /
+
 # END
