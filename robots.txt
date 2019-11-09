@@ -36,6 +36,8 @@ disallow: /
 # http://www.opensiteexplorer.org/dotbot
 User-agent: DotBot
 Disallow: /
+User-agent: dotbot
+Disallow: /
 
 # http://www.searchmetrics.com
 User-agent: SearchmetricsBot
@@ -59,11 +61,6 @@ Disallow: /
 
 # http://www.wotbox.com/bot/
 User-agent: wotbox
-Disallow: /
-
-# http://www.opensiteexplorer.org/dotbot
-# http://moz.com/researchtools/ose/dotbot
-User-agent: dotbot
 Disallow: /
 
 # http://www.meanpath.com/meanpathbot.html
@@ -235,10 +232,73 @@ Disallow: /
 User-Agent: crawler4j
 Disallow: /
 
-# https://www.semrush.com/bot.html
-User-Agent: SemrushBot
+# http://warebay.com/bot.html
+User-agent: WBSearchBot
 Disallow: /
 
-# https://www.semrush.com/bot.html
+User-agent: Python/3.5 aiohttp
+Disallow: /
+
+User-agent: Toweya.com
+Disallow: /
+
+# http://www.website-datenbank.de/
+User-agent: netEstate
+Disallow: /
+
+# http://law.di.unimi.it/BUbiNG.html
+User-agent: BUbiNG
+Disallow: /
+
+# http://www.linguee.com/bot; bot@linguee.com
+User-agent: Linguee
+Disallow: /
+
+# https://www.semrush.com/bot/
+User-agent: SemrushBot
+Disallow: /
+
 User-agent: SemrushBot-SA
 Disallow: /
+
+# www.sentibot.eu
+User-agent: sentibot
+Disallow: /
+User-agent: SentiBot
+Disallow: /
+
+# http://velen.io
+User-agent: VelenPublicWebCrawler
+Disallow: /
+
+User-agent: DomainCrawler
+Disallow: /
+
+# https://moz.com/help/guides/moz-procedures/what-is-rogerbot
+User-agent: rogerbot
+Disallow: /
+
+User-agent: IndeedBot
+Disallow: /
+
+# http://www.garlik.com
+User-agent: GarlikCrawler
+Disallow: /
+
+# https://www.gosign.de/typo3-extension/typo3-sicherheitsmonitor/
+User-agent: Gosign-Security-Crawler
+Disallow: /
+
+# http://www.siteliner.com/bot
+User-agent: Siteliner
+Disallow: /
+
+# https://sabsim.com
+User-agent: SabsimBot
+Disallow: /
+
+# http://ltx71.com/
+User-agent: ltx71
+Disallow: /
+
+# END
