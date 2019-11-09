@@ -33,8 +33,8 @@ disallow: /
 user-agent: UnisterBot
 disallow: /
 
-# http://moz.com/products
-User-agent: dotbot
+# http://www.opensiteexplorer.org/dotbot
+User-agent: DotBot
 Disallow: /
 
 # http://www.searchmetrics.com
@@ -225,4 +225,20 @@ Disallow: /
 
 # http://www.trendiction.com/en/publisher/bot
 User-Agent: trendictionbot
+Disallow: /
+
+# http://seocompany.store
+User-Agent: adscanner
+Disallow: /
+
+# https://github.com/yasserg/crawler4j/
+User-Agent: crawler4j
+Disallow: /
+
+# https://www.semrush.com/bot.html
+User-Agent: SemrushBot
+Disallow: /
+
+# https://www.semrush.com/bot.html
+User-agent: SemrushBot-SA
 Disallow: /
