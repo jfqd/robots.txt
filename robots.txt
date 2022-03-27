@@ -301,4 +301,12 @@ Disallow: /
 User-agent: ltx71
 Disallow: /
 
+# https://aspiegel.com/petalbot
+User-agent: PetalBot
+Disallow: /
+
+# https://seostar.co/robot/
+User-agent: adsbot
+Disallow: /
+
 # END
