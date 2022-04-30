@@ -309,4 +309,8 @@ Disallow: /
 User-agent: adsbot
 Disallow: /
 
+# https://dataforseo.com/dataforseo-bot
+User-agent: DataForSeoBot
+Disallow: /
+
 # END
