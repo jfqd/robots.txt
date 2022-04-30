@@ -313,4 +313,15 @@ Disallow: /
 User-agent: DataForSeoBot
 Disallow: /
 
+User-agent: Sidetrade
+Disallow: /
+
+# https://domainstats.com/pages/our-bot
+DomainStatsBot
+Disallow: /
+
+# https://inetdex.com/
+INETDEX-BOT
+Disallow: /
+
 # END
