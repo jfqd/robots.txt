@@ -328,4 +328,12 @@ Disallow: /
 User-agent: CheckMarkNetwork
 Disallow: /
 
+# https://start.me/bot
+User-agent: startmebot
+Disallow: /
+
+# http://cincrawdata.net/bot/
+User-agent: Cincraw
+Disallow: /
+
 # END
