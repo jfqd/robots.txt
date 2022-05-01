@@ -7,13 +7,7 @@ Crawl-delay: 10
 
 # Disallow: Sistrix
 User-agent: sistrix
-Disallow: /
-
-# Disallow: Sistrix
 User-agent: SISTRIX Crawler
-Disallow: /
-
-# Disallow: Sistrix
 User-agent: SISTRIX
 Disallow: /
 
@@ -26,16 +20,15 @@ User-agent: jobs.de-Robot
 Disallow: /
 
 # Backlink Analysis
-user-agent: AhrefsBot
+User-agent: AhrefsBot
 disallow: /
 
 # Bot der Leipziger Unister Holding GmbH
-user-agent: UnisterBot
+User-agent: UnisterBot
 disallow: /
 
 # http://www.opensiteexplorer.org/dotbot
 User-agent: DotBot
-Disallow: /
 User-agent: dotbot
 Disallow: /
 
@@ -263,7 +256,6 @@ Disallow: /
 
 # www.sentibot.eu
 User-agent: sentibot
-Disallow: /
 User-agent: SentiBot
 Disallow: /
 
@@ -317,11 +309,11 @@ User-agent: Sidetrade
 Disallow: /
 
 # https://domainstats.com/pages/our-bot
-DomainStatsBot
+User-agent: DomainStatsBot
 Disallow: /
 
 # https://inetdex.com/
-INETDEX-BOT
+User-agent: INETDEX-BOT
 Disallow: /
 
 # http://www.checkmarknetwork.com/spider.html
