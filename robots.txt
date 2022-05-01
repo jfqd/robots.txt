@@ -324,4 +324,8 @@ Disallow: /
 INETDEX-BOT
 Disallow: /
 
+# http://www.checkmarknetwork.com/spider.html
+User-agent: CheckMarkNetwork
+Disallow: /
+
 # END
