@@ -328,4 +328,20 @@ Disallow: /
 User-agent: Cincraw
 Disallow: /
 
+# ?
+User-agent: DF
+User-agent: DF Bot
+Disallow: /
+
+User-agent: i-market-bot
+Disallow: /
+
+# https://babbar.tech/crawler
+User-agent: barkrowler
+Disallow: /
+
+# https://www.t3versions.com/bot
+User-agent: t3versionsBot
+Disallow: /
+
 # END
