@@ -344,4 +344,8 @@ Disallow: /
 User-agent: t3versionsBot
 Disallow: /
 
+# https://serpstatbot.com
+User-agent: serpstatbot
+Disallow: /
+
 # END
