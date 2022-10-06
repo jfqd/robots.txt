@@ -348,4 +348,8 @@ Disallow: /
 User-agent: serpstatbot
 Disallow: /
 
+# https://app.hypefactors.com/media-monitoring/about.html
+User-agent: Buck
+Disallow: /
+
 # END
