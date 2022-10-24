@@ -357,4 +357,8 @@ User-agent: 2ip bot
 User-agent: 2ip
 Disallow: /
 
+# http://linkfluence.com/
+User-agent: YaK
+Disallow: /
+
 # END
