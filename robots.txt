@@ -365,4 +365,9 @@ Disallow: /
 User-Agent: trendictionbot 
 Disallow: /
 
+# ?
+User-Agent: Xing Bot
+User-Agent: Xing
+Disallow: /
+
 # END
