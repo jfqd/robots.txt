@@ -361,4 +361,8 @@ Disallow: /
 User-agent: YaK
 Disallow: /
 
+# https://www.trendiction.com/bot
+User-Agent: trendictionbot 
+Disallow: /
+
 # END
