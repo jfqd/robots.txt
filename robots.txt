@@ -352,4 +352,9 @@ Disallow: /
 User-agent: Buck
 Disallow: /
 
+# http://2ip.io
+User-agent: 2ip bot
+User-agent: 2ip
+Disallow: /
+
 # END
