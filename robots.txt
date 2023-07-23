@@ -11,6 +11,10 @@ User-agent: SISTRIX Crawler
 User-agent: SISTRIX
 Disallow: /
 
+# Disallow: Sistrix Searchengine
+User-agent: SeekportBot
+Disallow: /
+
 # Disallow: SEOkicks-Robot
 User-agent: SEOkicks-Robot
 Disallow: /
