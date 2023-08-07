@@ -374,4 +374,8 @@ User-Agent: Xing Bot
 User-Agent: Xing
 Disallow: /
 
+# https://platform.openai.com/docs/gptbot
+User-agent: GPTBot
+Disallow: /
+
 # END
