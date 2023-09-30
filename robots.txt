@@ -378,4 +378,8 @@ Disallow: /
 User-agent: GPTBot
 Disallow: /
 
+# https://blog.google/technology/ai/an-update-on-web-publisher-controls/
+User-agent: Google-Extended
+Disallow: /
+
 # END
