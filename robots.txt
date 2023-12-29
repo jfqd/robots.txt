@@ -377,9 +377,41 @@ Disallow: /
 # https://platform.openai.com/docs/gptbot
 User-agent: GPTBot
 Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
 
 # https://blog.google/technology/ai/an-update-on-web-publisher-controls/
 User-agent: Google-Extended
+Disallow: /
+
+# https://darkvisitors.com/agents/cohere-ai
+User-agent: cohere-ai
+Disallow: /
+
+# https://darkvisitors.com/agents/anthropic-ai
+User-agent: anthropic-ai
+Disallow: /
+
+# https://darkvisitors.com/agents/ccbot
+User-agent: CCBot
+Disallow: /
+
+# https://darkvisitors.com/agents/facebookbot
+User-agent: FacebookBot
+Disallow: /
+
+# https://darkvisitors.com/agents/google-extended
+User-agent: Google-Extended
+Disallow: /
+
+# https://darkvisitors.com/agents/gptbot
+User-agent: GPTBot
+Disallow: /
+
+# https://darkvisitors.com/agents/omgilibot
+User-agent: omgilibot
+Disallow: /
+User-agent: omgili
 Disallow: /
 
 # END
