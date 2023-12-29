@@ -414,4 +414,12 @@ Disallow: /
 User-agent: omgili
 Disallow: /
 
+# http://serendeputy.com/about/serendeputy-bot
+User-agent: SerendeputyBot
+Disallow: /
+
+# ?
+User-agent: ws-bot-v1
+Disallow: /
+
 # END
