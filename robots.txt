@@ -381,6 +381,7 @@ User-agent: ChatGPT-User
 Disallow: /
 
 # https://blog.google/technology/ai/an-update-on-web-publisher-controls/
+# https://darkvisitors.com/agents/google-extended
 User-agent: Google-Extended
 Disallow: /
 
@@ -400,18 +401,14 @@ Disallow: /
 User-agent: FacebookBot
 Disallow: /
 
-# https://darkvisitors.com/agents/google-extended
-User-agent: Google-Extended
-Disallow: /
-
 # https://darkvisitors.com/agents/gptbot
 User-agent: GPTBot
 Disallow: /
 
 # https://darkvisitors.com/agents/omgilibot
-User-agent: omgilibot
+User-agent: Omgilibot
 Disallow: /
-User-agent: omgili
+User-agent: Omgili
 Disallow: /
 
 # http://serendeputy.com/about/serendeputy-bot
@@ -421,5 +418,8 @@ Disallow: /
 # ?
 User-agent: ws-bot-v1
 Disallow: /
+
+# ByteDance: Duobao
+User-agent: Bytespider
 
 # END
